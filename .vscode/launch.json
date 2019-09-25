@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MoveZerosOrigin",
+            "request": "launch",
+            "mainClass": "MoveZerosOrigin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MoveZeros",
+            "request": "launch",
+            "mainClass": "MoveZeros"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MeetingRoomsOrigin",
+            "request": "launch",
+            "mainClass": "MeetingRoomsOrigin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MeetingRooms",
+            "request": "launch",
+            "mainClass": "MeetingRooms"
+        }
+    ]
+}
