@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - JewelsAndStones",
+            "request": "launch",
+            "mainClass": "JewelsAndStones"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - solution02",
             "request": "launch",
             "mainClass": "solution02"
