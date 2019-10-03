@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - NumberOfIsland_dfs",
+            "request": "launch",
+            "mainClass": "NumberOfIsland_dfs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumberOfIslands_dfs",
+            "request": "launch",
+            "mainClass": "NumberOfIslands_dfs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumberOfIslands",
+            "request": "launch",
+            "mainClass": "NumberOfIslands"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - JewelsAndStones",
             "request": "launch",
             "mainClass": "JewelsAndStones"
