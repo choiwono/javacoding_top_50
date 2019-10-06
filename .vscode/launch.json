@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Network_dfs",
+            "request": "launch",
+            "mainClass": "Network_dfs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumberOfIsland_bfs",
+            "request": "launch",
+            "mainClass": "NumberOfIsland_bfs"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - NumberOfIsland_dfs",
             "request": "launch",
             "mainClass": "NumberOfIsland_dfs"
