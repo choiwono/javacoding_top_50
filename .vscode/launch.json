@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - IslandConnect",
+            "request": "launch",
+            "mainClass": "IslandConnect"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Network_dfs",
             "request": "launch",
             "mainClass": "Network_dfs"
