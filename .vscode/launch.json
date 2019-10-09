@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - targetNumber",
+            "request": "launch",
+            "mainClass": "targetNumber"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - IslandConnect",
             "request": "launch",
             "mainClass": "IslandConnect"
